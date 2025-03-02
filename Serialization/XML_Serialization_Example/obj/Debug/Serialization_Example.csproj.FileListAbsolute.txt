@@ -1,0 +1,7 @@
+D:\GitHub\Serialization_Example\bin\Debug\Serialization_Example.exe.config
+D:\GitHub\Serialization_Example\bin\Debug\Serialization_Example.exe
+D:\GitHub\Serialization_Example\bin\Debug\Serialization_Example.pdb
+D:\GitHub\Serialization_Example\obj\Debug\Serialization_Example.csproj.AssemblyReference.cache
+D:\GitHub\Serialization_Example\obj\Debug\Serialization_Example.csproj.CoreCompileInputs.cache
+D:\GitHub\Serialization_Example\obj\Debug\Serialization_Example.exe
+D:\GitHub\Serialization_Example\obj\Debug\Serialization_Example.pdb

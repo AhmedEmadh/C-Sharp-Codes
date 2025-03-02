@@ -1,0 +1,14 @@
+D:\GitHub\Binary_Serialization_Example\obj\Debug\Binary_Serialization_Example.csproj.AssemblyReference.cache
+D:\GitHub\Binary_Serialization_Example\obj\Debug\Binary_Serialization_Example.csproj.CoreCompileInputs.cache
+D:\GitHub\Binary_Serialization_Example\bin\Debug\Binary_Serialization_Example.exe.config
+D:\GitHub\Binary_Serialization_Example\bin\Debug\Binary_Serialization_Example.exe
+D:\GitHub\Binary_Serialization_Example\bin\Debug\Binary_Serialization_Example.pdb
+D:\GitHub\Binary_Serialization_Example\obj\Debug\Binary_Serialization_Example.exe
+D:\GitHub\Binary_Serialization_Example\obj\Debug\Binary_Serialization_Example.pdb
+D:\GitHub\C-Sharp-Codes\Serialization\Binary_Serialization_Example\bin\Debug\Binary_Serialization_Example.exe.config
+D:\GitHub\C-Sharp-Codes\Serialization\Binary_Serialization_Example\bin\Debug\Binary_Serialization_Example.exe
+D:\GitHub\C-Sharp-Codes\Serialization\Binary_Serialization_Example\bin\Debug\Binary_Serialization_Example.pdb
+D:\GitHub\C-Sharp-Codes\Serialization\Binary_Serialization_Example\obj\Debug\Binary_Serialization_Example.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Serialization\Binary_Serialization_Example\obj\Debug\Binary_Serialization_Example.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Serialization\Binary_Serialization_Example\obj\Debug\Binary_Serialization_Example.exe
+D:\GitHub\C-Sharp-Codes\Serialization\Binary_Serialization_Example\obj\Debug\Binary_Serialization_Example.pdb

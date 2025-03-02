@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML_Serialization_Example", "XML_Serialization_Example.csproj", "{3AF3E040-077C-440C-8892-91797FE6E506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json_Serialization_Example", "..\Json_Serialization_Example\Json_Serialization_Example.csproj", "{9125BA46-018D-4678-9758-163B14541AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary_Serialization_Example", "..\Binary_Serialization_Example\Binary_Serialization_Example.csproj", "{CD6EE567-B8BE-41C9-A763-6EFAB54EA5A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF3E040-077C-440C-8892-91797FE6E506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF3E040-077C-440C-8892-91797FE6E506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF3E040-077C-440C-8892-91797FE6E506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF3E040-077C-440C-8892-91797FE6E506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9125BA46-018D-4678-9758-163B14541AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9125BA46-018D-4678-9758-163B14541AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9125BA46-018D-4678-9758-163B14541AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9125BA46-018D-4678-9758-163B14541AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD6EE567-B8BE-41C9-A763-6EFAB54EA5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6EE567-B8BE-41C9-A763-6EFAB54EA5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6EE567-B8BE-41C9-A763-6EFAB54EA5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6EE567-B8BE-41C9-A763-6EFAB54EA5A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
