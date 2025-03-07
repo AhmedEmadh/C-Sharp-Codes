@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Codes\Refliction\TypeClass\bin\Debug\TypeClass.exe.config
+D:\GitHub\C-Sharp-Codes\Refliction\TypeClass\bin\Debug\TypeClass.exe
+D:\GitHub\C-Sharp-Codes\Refliction\TypeClass\bin\Debug\TypeClass.pdb
+D:\GitHub\C-Sharp-Codes\Refliction\TypeClass\obj\Debug\TypeClass.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Refliction\TypeClass\obj\Debug\TypeClass.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Refliction\TypeClass\obj\Debug\TypeClass.exe
+D:\GitHub\C-Sharp-Codes\Refliction\TypeClass\obj\Debug\TypeClass.pdb

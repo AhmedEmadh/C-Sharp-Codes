@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Codes\Cryptography\SymmetricEncryptionExample\bin\Debug\SymmetricEncryptionExample.exe.config
+D:\GitHub\C-Sharp-Codes\Cryptography\SymmetricEncryptionExample\bin\Debug\SymmetricEncryptionExample.exe
+D:\GitHub\C-Sharp-Codes\Cryptography\SymmetricEncryptionExample\bin\Debug\SymmetricEncryptionExample.pdb
+D:\GitHub\C-Sharp-Codes\Cryptography\SymmetricEncryptionExample\obj\Debug\SymmetricEncryptionExample.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Cryptography\SymmetricEncryptionExample\obj\Debug\SymmetricEncryptionExample.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Cryptography\SymmetricEncryptionExample\obj\Debug\SymmetricEncryptionExample.exe
+D:\GitHub\C-Sharp-Codes\Cryptography\SymmetricEncryptionExample\obj\Debug\SymmetricEncryptionExample.pdb

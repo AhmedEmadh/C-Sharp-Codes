@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Codes\Refliction\LoggingExample\bin\Debug\LoggingExample.exe.config
+D:\GitHub\C-Sharp-Codes\Refliction\LoggingExample\bin\Debug\LoggingExample.exe
+D:\GitHub\C-Sharp-Codes\Refliction\LoggingExample\bin\Debug\LoggingExample.pdb
+D:\GitHub\C-Sharp-Codes\Refliction\LoggingExample\obj\Debug\LoggingExample.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Refliction\LoggingExample\obj\Debug\LoggingExample.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Refliction\LoggingExample\obj\Debug\LoggingExample.exe
+D:\GitHub\C-Sharp-Codes\Refliction\LoggingExample\obj\Debug\LoggingExample.pdb

@@ -1,0 +1,14 @@
+D:\GitHub\C-Sharp-Codes\Refliction\WindowsRegisteryTest\bin\Debug\WindowsRegisteryTest.exe.config
+D:\GitHub\C-Sharp-Codes\Refliction\WindowsRegisteryTest\bin\Debug\WindowsRegisteryTest.exe
+D:\GitHub\C-Sharp-Codes\Refliction\WindowsRegisteryTest\bin\Debug\WindowsRegisteryTest.pdb
+D:\GitHub\C-Sharp-Codes\Refliction\WindowsRegisteryTest\obj\Debug\WindowsRegisteryTest.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Refliction\WindowsRegisteryTest\obj\Debug\WindowsRegisteryTest.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Refliction\WindowsRegisteryTest\obj\Debug\WindowsRegisteryTest.exe
+D:\GitHub\C-Sharp-Codes\Refliction\WindowsRegisteryTest\obj\Debug\WindowsRegisteryTest.pdb
+D:\GitHub\C-Sharp-Codes\Windows_Registery\WindowsRegisteryTest\bin\Debug\WindowsRegisteryTest.exe.config
+D:\GitHub\C-Sharp-Codes\Windows_Registery\WindowsRegisteryTest\bin\Debug\WindowsRegisteryTest.exe
+D:\GitHub\C-Sharp-Codes\Windows_Registery\WindowsRegisteryTest\bin\Debug\WindowsRegisteryTest.pdb
+D:\GitHub\C-Sharp-Codes\Windows_Registery\WindowsRegisteryTest\obj\Debug\WindowsRegisteryTest.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Windows_Registery\WindowsRegisteryTest\obj\Debug\WindowsRegisteryTest.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Windows_Registery\WindowsRegisteryTest\obj\Debug\WindowsRegisteryTest.exe
+D:\GitHub\C-Sharp-Codes\Windows_Registery\WindowsRegisteryTest\obj\Debug\WindowsRegisteryTest.pdb
