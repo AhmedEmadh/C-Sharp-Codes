@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Codes\Multithreading\ParameterizedThread\bin\Debug\ParameterizedThread.exe.config
+D:\GitHub\C-Sharp-Codes\Multithreading\ParameterizedThread\bin\Debug\ParameterizedThread.exe
+D:\GitHub\C-Sharp-Codes\Multithreading\ParameterizedThread\bin\Debug\ParameterizedThread.pdb
+D:\GitHub\C-Sharp-Codes\Multithreading\ParameterizedThread\obj\Debug\ParameterizedThread.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Multithreading\ParameterizedThread\obj\Debug\ParameterizedThread.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Multithreading\ParameterizedThread\obj\Debug\ParameterizedThread.exe
+D:\GitHub\C-Sharp-Codes\Multithreading\ParameterizedThread\obj\Debug\ParameterizedThread.pdb

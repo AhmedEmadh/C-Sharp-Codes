@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub\\C-Sharp-Codes\\Multithreading\\ThreadClassExample\\",
+  "WorkspaceRootPath": "D:\\GitHub\\C-Sharp-Codes\\AsynchronousProgramming\\TaskClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8592641-A3D3-4BEC-B58E-68364DC964C3}|ThreadClassExample.csproj|d:\\github\\c-sharp-codes\\multithreading\\threadclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8592641-A3D3-4BEC-B58E-68364DC964C3}|ThreadClassExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91F7EC6F-6389-4AC8-8C37-23B2BB733A24}|TaskClass.csproj|d:\\github\\c-sharp-codes\\asynchronousprogramming\\taskclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F7EC6F-6389-4AC8-8C37-23B2BB733A24}|TaskClass.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GitHub\\C-Sharp-Codes\\Multithreading\\ThreadClassExample\\Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\C-Sharp-Codes\\AsynchronousProgramming\\TaskClass\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\GitHub\\C-Sharp-Codes\\Multithreading\\ThreadClassExample\\Program.cs",
+              "ToolTip": "D:\\GitHub\\C-Sharp-Codes\\AsynchronousProgramming\\TaskClass\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T18:07:51.843Z",
+              "WhenOpened": "2025-03-07T21:57:54.678Z",
               "EditorCaption": ""
             }
           ]

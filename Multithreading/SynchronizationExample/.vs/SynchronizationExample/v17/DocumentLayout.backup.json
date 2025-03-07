@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub\\C-Sharp-Codes\\Multithreading\\ThreadClassExample\\",
+  "WorkspaceRootPath": "D:\\GitHub\\C-Sharp-Codes\\Multithreading\\SynchronizationExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8592641-A3D3-4BEC-B58E-68364DC964C3}|ThreadClassExample.csproj|d:\\github\\c-sharp-codes\\multithreading\\threadclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8592641-A3D3-4BEC-B58E-68364DC964C3}|ThreadClassExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFED41BF-F879-4120-9010-C3F8DF62FF3B}|SynchronizationExample.csproj|d:\\github\\c-sharp-codes\\multithreading\\synchronizationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFED41BF-F879-4120-9010-C3F8DF62FF3B}|SynchronizationExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GitHub\\C-Sharp-Codes\\Multithreading\\ThreadClassExample\\Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\C-Sharp-Codes\\Multithreading\\SynchronizationExample\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\GitHub\\C-Sharp-Codes\\Multithreading\\ThreadClassExample\\Program.cs",
+              "ToolTip": "D:\\GitHub\\C-Sharp-Codes\\Multithreading\\SynchronizationExample\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T18:07:51.843Z",
+              "WhenOpened": "2025-03-07T21:06:23.842Z",
               "EditorCaption": ""
             }
           ]
