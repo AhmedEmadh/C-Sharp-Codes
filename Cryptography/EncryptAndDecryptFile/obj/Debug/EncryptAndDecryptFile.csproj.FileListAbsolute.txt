@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Codes\Cryptography\EncryptAndDecryptFile\bin\Debug\EncryptAndDecryptFile.exe.config
+D:\GitHub\C-Sharp-Codes\Cryptography\EncryptAndDecryptFile\bin\Debug\EncryptAndDecryptFile.exe
+D:\GitHub\C-Sharp-Codes\Cryptography\EncryptAndDecryptFile\bin\Debug\EncryptAndDecryptFile.pdb
+D:\GitHub\C-Sharp-Codes\Cryptography\EncryptAndDecryptFile\obj\Debug\EncryptAndDecryptFile.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Cryptography\EncryptAndDecryptFile\obj\Debug\EncryptAndDecryptFile.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Cryptography\EncryptAndDecryptFile\obj\Debug\EncryptAndDecryptFile.exe
+D:\GitHub\C-Sharp-Codes\Cryptography\EncryptAndDecryptFile\obj\Debug\EncryptAndDecryptFile.pdb
