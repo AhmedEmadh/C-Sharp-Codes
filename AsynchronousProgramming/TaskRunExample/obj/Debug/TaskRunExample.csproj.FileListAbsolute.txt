@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Codes\AsynchronousProgramming\TaskRunExample\obj\Debug\TaskRunExample.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\AsynchronousProgramming\TaskRunExample\obj\Debug\TaskRunExample.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\AsynchronousProgramming\TaskRunExample\bin\Debug\TaskRunExample.exe.config
+D:\GitHub\C-Sharp-Codes\AsynchronousProgramming\TaskRunExample\bin\Debug\TaskRunExample.exe
+D:\GitHub\C-Sharp-Codes\AsynchronousProgramming\TaskRunExample\bin\Debug\TaskRunExample.pdb
+D:\GitHub\C-Sharp-Codes\AsynchronousProgramming\TaskRunExample\obj\Debug\TaskRunExample.exe
+D:\GitHub\C-Sharp-Codes\AsynchronousProgramming\TaskRunExample\obj\Debug\TaskRunExample.pdb
