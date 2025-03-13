@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub\\C-Sharp-Codes\\Data_Structures\\List\\ListLINQ\\",
+  "WorkspaceRootPath": "D:\\GitHub\\C-Sharp-Codes\\Data_Structures\\List\\ListOfObjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9832502-6556-48E9-ADE5-74360B525CCF}|ListLINQ.csproj|d:\\github\\c-sharp-codes\\data_structures\\list\\listlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9832502-6556-48E9-ADE5-74360B525CCF}|ListLINQ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FA79E1A-C953-42DB-BFAF-EEFCAA4C1560}|ListOfObjects.csproj|d:\\github\\c-sharp-codes\\data_structures\\list\\listofobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA79E1A-C953-42DB-BFAF-EEFCAA4C1560}|ListOfObjects.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,13 +32,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GitHub\\C-Sharp-Codes\\Data_Structures\\List\\ListLINQ\\Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\C-Sharp-Codes\\Data_Structures\\List\\ListOfObjects\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\GitHub\\C-Sharp-Codes\\Data_Structures\\List\\ListLINQ\\Program.cs",
+              "ToolTip": "D:\\GitHub\\C-Sharp-Codes\\Data_Structures\\List\\ListOfObjects\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAcwDIAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T21:36:43.219Z",
+              "WhenOpened": "2025-03-13T01:22:11.589Z",
               "EditorCaption": ""
             }
           ]

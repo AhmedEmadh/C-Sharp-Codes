@@ -39,9 +39,17 @@ namespace ListLINQ
             //Also Sorting
             list.Sort();
             list.Reverse();
+            //Using Contains
+            Console.WriteLine("Is List Contains 5: " + list.Contains(5));
+            //Using Exists
+            Console.WriteLine("Is List Contains 5: " + list.Exists(n => n == 5));
+            //Using Find
+            Console.WriteLine("The First Number Greater Than 5: " + list.Find(n => n > 5));
+            //Using FindAll
+            Console.WriteLine("The Numbers Greater Than 5: {" + string.Join(",", list.FindAll(n => n > 5)) + "}");
+            //Using Any
+            Console.WriteLine("Is Any Number Greater Than 5: " + list.Any(n => n > 5));
 
-            
-            
         }
     }
 }
