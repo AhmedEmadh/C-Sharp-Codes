@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Codes\Data_Structures\SortedDictionary\SortedDictionaryExample\obj\Debug\SortedDictionaryExample.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\SortedDictionary\SortedDictionaryExample\obj\Debug\SortedDictionaryExample.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\SortedDictionary\SortedDictionaryExample\bin\Debug\SortedDictionaryExample.exe.config
+D:\GitHub\C-Sharp-Codes\Data_Structures\SortedDictionary\SortedDictionaryExample\bin\Debug\SortedDictionaryExample.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\SortedDictionary\SortedDictionaryExample\bin\Debug\SortedDictionaryExample.pdb
+D:\GitHub\C-Sharp-Codes\Data_Structures\SortedDictionary\SortedDictionaryExample\obj\Debug\SortedDictionaryExample.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\SortedDictionary\SortedDictionaryExample\obj\Debug\SortedDictionaryExample.pdb
