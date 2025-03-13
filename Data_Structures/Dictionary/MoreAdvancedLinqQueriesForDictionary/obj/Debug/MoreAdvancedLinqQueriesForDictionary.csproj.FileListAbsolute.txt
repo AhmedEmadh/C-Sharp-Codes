@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Codes\Data_Structures\Dictionary\MoreAdvancedLinqQueriesForDictionary\bin\Debug\MoreAdvancedLinqQueriesForDictionary.exe.config
+D:\GitHub\C-Sharp-Codes\Data_Structures\Dictionary\MoreAdvancedLinqQueriesForDictionary\bin\Debug\MoreAdvancedLinqQueriesForDictionary.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\Dictionary\MoreAdvancedLinqQueriesForDictionary\bin\Debug\MoreAdvancedLinqQueriesForDictionary.pdb
+D:\GitHub\C-Sharp-Codes\Data_Structures\Dictionary\MoreAdvancedLinqQueriesForDictionary\obj\Debug\MoreAdvancedLinqQueriesForDictionary.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\Dictionary\MoreAdvancedLinqQueriesForDictionary\obj\Debug\MoreAdvancedLinqQueriesForDictionary.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\Dictionary\MoreAdvancedLinqQueriesForDictionary\obj\Debug\MoreAdvancedLinqQueriesForDictionary.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\Dictionary\MoreAdvancedLinqQueriesForDictionary\obj\Debug\MoreAdvancedLinqQueriesForDictionary.pdb

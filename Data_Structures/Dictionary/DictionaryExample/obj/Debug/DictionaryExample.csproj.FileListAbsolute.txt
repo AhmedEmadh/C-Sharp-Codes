@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Codes\Data_Structures\Dictionary\DictionaryExample\bin\Debug\DictionaryExample.exe.config
+D:\GitHub\C-Sharp-Codes\Data_Structures\Dictionary\DictionaryExample\bin\Debug\DictionaryExample.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\Dictionary\DictionaryExample\bin\Debug\DictionaryExample.pdb
+D:\GitHub\C-Sharp-Codes\Data_Structures\Dictionary\DictionaryExample\obj\Debug\DictionaryExample.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\Dictionary\DictionaryExample\obj\Debug\DictionaryExample.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\Dictionary\DictionaryExample\obj\Debug\DictionaryExample.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\Dictionary\DictionaryExample\obj\Debug\DictionaryExample.pdb

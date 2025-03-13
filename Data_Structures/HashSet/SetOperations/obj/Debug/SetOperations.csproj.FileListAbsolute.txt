@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Codes\Data_Structures\HashSet\SetOperations\obj\Debug\SetOperations.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\HashSet\SetOperations\obj\Debug\SetOperations.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\HashSet\SetOperations\bin\Debug\SetOperations.exe.config
+D:\GitHub\C-Sharp-Codes\Data_Structures\HashSet\SetOperations\bin\Debug\SetOperations.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\HashSet\SetOperations\bin\Debug\SetOperations.pdb
+D:\GitHub\C-Sharp-Codes\Data_Structures\HashSet\SetOperations\obj\Debug\SetOperations.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\HashSet\SetOperations\obj\Debug\SetOperations.pdb
