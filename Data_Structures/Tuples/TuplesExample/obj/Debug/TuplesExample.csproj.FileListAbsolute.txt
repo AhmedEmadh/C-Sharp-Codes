@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tuples\TuplesExample\bin\Debug\TuplesExample.exe.config
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tuples\TuplesExample\bin\Debug\TuplesExample.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tuples\TuplesExample\bin\Debug\TuplesExample.pdb
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tuples\TuplesExample\obj\Debug\TuplesExample.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tuples\TuplesExample\obj\Debug\TuplesExample.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tuples\TuplesExample\obj\Debug\TuplesExample.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tuples\TuplesExample\obj\Debug\TuplesExample.pdb

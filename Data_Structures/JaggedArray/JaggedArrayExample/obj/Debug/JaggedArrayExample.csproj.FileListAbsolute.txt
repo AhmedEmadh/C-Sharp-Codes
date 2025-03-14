@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Codes\Data_Structures\JaggedArray\JaggedArrayExample\bin\Debug\JaggedArrayExample.exe.config
+D:\GitHub\C-Sharp-Codes\Data_Structures\JaggedArray\JaggedArrayExample\bin\Debug\JaggedArrayExample.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\JaggedArray\JaggedArrayExample\bin\Debug\JaggedArrayExample.pdb
+D:\GitHub\C-Sharp-Codes\Data_Structures\JaggedArray\JaggedArrayExample\obj\Debug\JaggedArrayExample.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\JaggedArray\JaggedArrayExample\obj\Debug\JaggedArrayExample.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\JaggedArray\JaggedArrayExample\obj\Debug\JaggedArrayExample.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\JaggedArray\JaggedArrayExample\obj\Debug\JaggedArrayExample.pdb

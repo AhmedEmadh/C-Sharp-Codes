@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Codes\Data_Structures\BitArray\BitArrayExample\bin\Debug\BitArrayExample.exe.config
+D:\GitHub\C-Sharp-Codes\Data_Structures\BitArray\BitArrayExample\bin\Debug\BitArrayExample.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\BitArray\BitArrayExample\bin\Debug\BitArrayExample.pdb
+D:\GitHub\C-Sharp-Codes\Data_Structures\BitArray\BitArrayExample\obj\Debug\BitArrayExample.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\BitArray\BitArrayExample\obj\Debug\BitArrayExample.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\BitArray\BitArrayExample\obj\Debug\BitArrayExample.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\BitArray\BitArrayExample\obj\Debug\BitArrayExample.pdb

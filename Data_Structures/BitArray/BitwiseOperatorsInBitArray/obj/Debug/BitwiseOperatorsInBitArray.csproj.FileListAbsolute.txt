@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Codes\Data_Structures\BitArray\BitwiseOperatorsInBitArray\obj\Debug\BitwiseOperatorsInBitArray.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\BitArray\BitwiseOperatorsInBitArray\obj\Debug\BitwiseOperatorsInBitArray.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\BitArray\BitwiseOperatorsInBitArray\bin\Debug\BitwiseOperatorsInBitArray.exe.config
+D:\GitHub\C-Sharp-Codes\Data_Structures\BitArray\BitwiseOperatorsInBitArray\bin\Debug\BitwiseOperatorsInBitArray.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\BitArray\BitwiseOperatorsInBitArray\bin\Debug\BitwiseOperatorsInBitArray.pdb
+D:\GitHub\C-Sharp-Codes\Data_Structures\BitArray\BitwiseOperatorsInBitArray\obj\Debug\BitwiseOperatorsInBitArray.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\BitArray\BitwiseOperatorsInBitArray\obj\Debug\BitwiseOperatorsInBitArray.pdb

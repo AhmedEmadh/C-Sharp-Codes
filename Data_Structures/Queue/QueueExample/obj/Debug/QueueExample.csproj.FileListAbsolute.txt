@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Codes\Data_Structures\Queue\QueueExample\bin\Debug\QueueExample.exe.config
+D:\GitHub\C-Sharp-Codes\Data_Structures\Queue\QueueExample\bin\Debug\QueueExample.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\Queue\QueueExample\bin\Debug\QueueExample.pdb
+D:\GitHub\C-Sharp-Codes\Data_Structures\Queue\QueueExample\obj\Debug\QueueExample.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\Queue\QueueExample\obj\Debug\QueueExample.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\Queue\QueueExample\obj\Debug\QueueExample.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\Queue\QueueExample\obj\Debug\QueueExample.pdb

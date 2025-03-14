@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tuples\TuplesWithLINQ\bin\Debug\TuplesWithLINQ.exe.config
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tuples\TuplesWithLINQ\bin\Debug\TuplesWithLINQ.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tuples\TuplesWithLINQ\bin\Debug\TuplesWithLINQ.pdb
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tuples\TuplesWithLINQ\obj\Debug\TuplesWithLINQ.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tuples\TuplesWithLINQ\obj\Debug\TuplesWithLINQ.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tuples\TuplesWithLINQ\obj\Debug\TuplesWithLINQ.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tuples\TuplesWithLINQ\obj\Debug\TuplesWithLINQ.pdb
