@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tree\GeneralTree\GeneralTreeExample\bin\Debug\GeneralTreeExample.exe.config
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tree\GeneralTree\GeneralTreeExample\bin\Debug\GeneralTreeExample.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tree\GeneralTree\GeneralTreeExample\bin\Debug\GeneralTreeExample.pdb
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tree\GeneralTree\GeneralTreeExample\obj\Debug\GeneralTreeExample.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tree\GeneralTree\GeneralTreeExample\obj\Debug\GeneralTreeExample.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tree\GeneralTree\GeneralTreeExample\obj\Debug\GeneralTreeExample.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\Tree\GeneralTree\GeneralTreeExample\obj\Debug\GeneralTreeExample.pdb
