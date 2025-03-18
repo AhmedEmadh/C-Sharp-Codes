@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Codes\Data_Structures\APIs\Win32_APIs\GetScreenResolution\bin\Debug\GetScreenResolution.exe.config
+D:\GitHub\C-Sharp-Codes\Data_Structures\APIs\Win32_APIs\GetScreenResolution\bin\Debug\GetScreenResolution.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\APIs\Win32_APIs\GetScreenResolution\bin\Debug\GetScreenResolution.pdb
+D:\GitHub\C-Sharp-Codes\Data_Structures\APIs\Win32_APIs\GetScreenResolution\obj\Debug\GetScreenResolution.csproj.AssemblyReference.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\APIs\Win32_APIs\GetScreenResolution\obj\Debug\GetScreenResolution.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Codes\Data_Structures\APIs\Win32_APIs\GetScreenResolution\obj\Debug\GetScreenResolution.exe
+D:\GitHub\C-Sharp-Codes\Data_Structures\APIs\Win32_APIs\GetScreenResolution\obj\Debug\GetScreenResolution.pdb
